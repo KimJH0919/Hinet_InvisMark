@@ -98,7 +98,6 @@ This project is licensed under the MIT License.
 ## Author
 
 김정훈 (JungHun Kim)  
-GitHub: [https://github.com/jj8127](https://github.com/jj8127)  
 
 김세빈 (SeBin Kim)  
 정준 (Jun Jeong)  
