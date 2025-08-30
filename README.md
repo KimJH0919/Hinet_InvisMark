@@ -26,17 +26,7 @@
 
 ![hinet_architecture](./results/hinet_architecture.png)
 
----
 
-## Project Structure
-
-```
-src/                   # 소스코드
-models/                # 원본 및 PTQ 변환 모델
-results/               # 결과 이미지 및 로그
-requirements.txt       # 의존 패키지 리스트
-README.md              # 프로젝트 설명 문서
-```
 
 ---
 
@@ -54,15 +44,6 @@ README.md              # 프로젝트 설명 문서
 
 ---
 
-## Model Files
-
-| 모델      | 파일명                        | 실행 위치 |
-|-----------|-------------------------------|-----------|
-| Original HiNet   | `hinet_fp32.pt` | CPU |
-| PTQ HiNet        | `hinet_int8.pt` | CPU |
-| Fine-tuned PTQ   | `hinet_fine_ptq.pt` | CPU |
-
----
 
 ## Performance
 
